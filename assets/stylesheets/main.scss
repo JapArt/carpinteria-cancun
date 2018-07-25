@@ -1,0 +1,19 @@
+$main-color: #1e1714;
+$link-color: #c69c6d;
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700');
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, label {
+  font-family: 'Roboto Slab', serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+@import "index";
